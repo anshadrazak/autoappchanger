@@ -1,3 +1,7 @@
+Automatically changes app when a motion is detected
+
+
+
 
 This Python code requires several libraries and specific hardware to run:
 
